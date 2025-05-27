@@ -1,0 +1,22 @@
+.livro-card {
+    background-color: brown;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+}
+
+.livro-card h3{
+    font-size: 18px;
+    color: beige;
+}
+
+.livro-card p {
+    font-size: 14px;
+    color: aliceblue;
+}
+
+.livro-card strong {
+    color: aliceblue;
+}
